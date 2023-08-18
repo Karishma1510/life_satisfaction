@@ -1,5 +1,5 @@
 # Life satisfaction 
-This project contains source code for to predict life satisfaction index of various countries using the feature gpd per capita.
+This project contains source code for to predict life satisfaction index of various countries using the feature gdp per capita.
 
 ## Environnment and Tools
 - **IDEs**: Though developers are free to use any IDEs but the project contains configuration files for vscode so it is super easy to use this project with VisualStudio Code.
